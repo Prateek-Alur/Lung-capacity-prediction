@@ -1,5 +1,5 @@
 # Lung-capacity-prediction
-Overview
+# Overview
 This project aims to predict lung capacity using linear regression. The dataset includes features such as age, height, smoking habits, gender, and history of caesarean delivery, which influence lung capacity. This project showcases the application of data preprocessing, exploratory data analysis (EDA), and machine learning to derive predictions.
 
 Dataset Description
