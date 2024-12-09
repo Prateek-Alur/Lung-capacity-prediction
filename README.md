@@ -17,18 +17,6 @@ Gender: Gender of the individual (Male/Female).
 
 Caesarean: Indicates if the individual was delivered via caesarean section (Yes/No or binary).
 
-Project Workflow
-Data Preprocessing
-Handling missing values.
-Encoding categorical variables.
-Scaling or normalizing data (if needed).
-Exploratory Data Analysis (EDA)
-Analyzing relationships between features and the target variable.
-Visualizing the data using graphs and plots.
-Model Building
-Implementing linear regression.
-Splitting data into training and testing sets.
-Evaluating model performance using metrics like Mean Squared Error (MSE) and R² score.
-Prediction
+Project Workflow:
 
-Using the trained model to predict lung capacity for new data
+Data Preprocessing, Handling missing values, Encoding categorical variables, Exploratory Data Analysis (EDA), Analyzing relationships between features and the target variable,Visualizing the data using graphs and plots, Model Building, Implementing linear regression, Splitting data into training and testing sets, Evaluating model performance using metrics like Mean Squared Error (MSE) and R² score, Prediction, Using the trained model to predict lung capacity for new data
